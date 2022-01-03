@@ -1,0 +1,31 @@
+edit delete 
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace home
+{
+    public partial class edit_del_user : Form
+    {
+        public edit_del_user()
+        {
+            InitializeComponent();
+        }
+
+        private void panelright_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panelleft_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+    }
+}
